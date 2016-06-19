@@ -1,0 +1,2430 @@
+commit b931e83ef6bc95c90ba9945a9ed64d9516568c40
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Apr 27 22:50:37 2016 -0500
+
+    Bitácora de commits al 27 de abril de 2016
+
+commit 618da8af9cfe570388e641d71220d31159782c64
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:53:15 2016 -0500
+
+    Cambio de cover en el header
+
+commit b48517d04ffa850da47a33f8748ab594a9c69390
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:50:11 2016 -0500
+
+    Cambio de cover en el header
+
+commit 3ca4caaffa6427eed30a85ef2d9638ccc0eafb27
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:47:58 2016 -0500
+
+    Cambio de cover en el header
+
+commit b45922a80f5361040a0d4356dc21792a8afb5603
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:45:26 2016 -0500
+
+    Cambio de cover en el header
+
+commit 403343d82ca3c8e9323d9017b661c1ed8a0a95b6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:55:58 2016 -0600
+
+    Nuevo artículo 'Apple event 2016' 4
+
+commit 2a6c471d944263955311815d1326845db20c7e8c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:54:11 2016 -0600
+
+    Nuevo artículo 'Apple event 2016' 3
+
+commit 81c35255dad295fd8f3f3490f055715b14b78830
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:53:07 2016 -0600
+
+    Nuevo artículo 'Apple event 2016' 2
+
+commit 6836f3f332b4996250e1394393fc4c570c441532
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:48:59 2016 -0600
+
+    Nuevo artículo 'Apple event 2016'
+
+commit 832c37cc5f2296d0b666632092048f7f17323311
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 22:11:50 2016 -0600
+
+    Nuevo artículo 'Instagram cambiará la manera en que ves tus fotos' 2
+
+commit 001d23662b9764ff70c2b29f29d743ac5d67a029
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 22:11:12 2016 -0600
+
+    Nuevo artículo 'Instagram cambiará la manera en que ves tus fotos'
+
+commit 36cce27f46751d213d62ac884b314c7c7de37236
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 16:47:48 2016 -0600
+
+    Nuevo artículo 'UberEATS es lanzado hoy en USA' 2
+
+commit e75f9729848348d6bcd1df58e5f97c154eefa99f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 16:19:52 2016 -0600
+
+    Nuevo artículo 'UberEATS es lanzado hoy en USA'
+
+commit 01da7897ac5148c703a2be102053b0284590406d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 14:54:30 2016 -0600
+
+    Nuevo artículo 'Google Maps agrega más servicios de taxi en su app' 2
+
+commit 26ec0ed842c5f5d7c08be7c0f36789295930bfef
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 14:53:22 2016 -0600
+
+    Nuevo artículo 'Google Maps agrega más servicios de taxi en su app'
+
+commit 57d8c200caa24490ab3e28afe0ab84b5dc72d3bb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Mar 11 19:22:56 2016 -0600
+
+    Nuevo artículo 'Facebook Messenger pronto para Windows 10'
+
+commit 484fdf6bc578c09a9d6b8a38c915a0cec75ec19d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 13:03:11 2016 -0600
+
+    Nuevo artículo 'Apple anuncia su evento el 21 de marzo'
+
+commit 6fa75bde65f648c76b205543ab23a30edbce3f22
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:45:50 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 5
+
+commit d36f9dcc733a06d30e7a8fa65e2cab1f297b3ef6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:40:39 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 4
+
+commit 838a94cc32a961d9b6b8852e4205405ecb214c72
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:39:43 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 3
+
+commit f0e4d424387d1a58c9184cca4592bfeb215b698b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:38:49 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 2
+
+commit 51887dc9cb9114b3299200de50dc8f1e49e75721
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:33:00 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido'
+
+commit 7036de8ec330760f53f57b030765b7bca878b24c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 22:55:16 2016 -0600
+
+    Nuevo artículo 'Snapchat para iOS cambió ligeramente su imagen' 3
+
+commit d70bea8b6da155721ce2a26355f42ebaaeabbe75
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 22:53:18 2016 -0600
+
+    Nuevo artículo 'Snapchat para iOS cambió ligeramente su imagen' 2
+
+commit 4bcf0842c80d5f624b0c3657f21f3e279ca05b13
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 22:51:48 2016 -0600
+
+    Nuevo artículo 'Snapchat para iOS cambió ligeramente su imagen'
+
+commit 23503679823ac5007303e00c8fb2480b555a63f5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:12:57 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N' 4
+
+commit 777c356e67c5ac17836d1bbf2b74e26eb1e24ff0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:09:34 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N' 3
+
+commit d66f405fb05f7eefc20a86b0c877cdbc7fc25dc6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:08:56 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N' 2
+
+commit 6c1d485a51edca330e871c3b20012febd69b3e1a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:07:50 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N'
+
+commit bc99176f041cfec457ace0c41d690d34ae3e1c08
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 8 23:53:09 2016 -0600
+
+    Nuevo artículo 'Facebook planea abrir Messenger para Editores'
+
+commit 64009114b7617bfc33497f8f782cfef3706f6151
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 3 12:04:12 2016 -0600
+
+    Nuevo artículo 'Slack introduce llamadas a su servicio'
+
+commit 2835bfdee23c016f24c850d9a1edb2c5c9b81884
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 2 22:52:47 2016 -0600
+
+    Actualización del log al día 2 de marzo de 2015
+
+commit 0062653c34d9fff33b70150a6a6787dbab8994b7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:57:40 2016 -0600
+
+    Cambios en el media del artículo 'Nueva Raspberry Pi 3'
+
+commit 7046145d277c58cf0ab366c8ac6f55968c2dcc6d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:55:28 2016 -0600
+
+    Cambios a index 2
+
+commit af1cc5bb41be5e42eb20765720fb59de63dab53e
+Merge: 6c96c61 61d7e02
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:53:45 2016 -0600
+
+    Cambios en index
+
+commit 6c96c6167c36dc1da2ef6e0c4e53efe982501fb5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:49:43 2016 -0600
+
+    Cambios en el index
+
+commit 61d7e02541e68f45a1097830e34cdc4371a4acf6
+Author: Raul Nabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:46:07 2016 -0600
+
+    Replace master branch with page content via GitHub
+
+commit b570db1709ed1418086ebf926ea604b48cee98ae
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 12:02:58 2016 -0600
+
+    Nuevo artículo 'Nueva Raspberry Pi 3'
+
+commit 10f7377a0ac79bbcada284fcfd7ff40073f25f5a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 29 23:09:17 2016 -0600
+
+    Nuevo artículo 'Snapchat cubrió Los Oscars a través de la web' 3
+
+commit 7e291bc36e6d93e7967718b3a7997d82c237fbba
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 29 23:02:11 2016 -0600
+
+    Nuevo artículo 'Snapchat cubrió Los Oscars a través de la web' 2
+
+commit 8cfd3b377ee80b89b328759211210aa36de033cd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 29 22:58:57 2016 -0600
+
+    Nuevo artículo 'Snapchat cubrió Los Oscars a través de la web'
+
+commit e30094262f76b59511581fcb0c719bb3b069bb3c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:54:32 2016 -0600
+
+    Nuevo artículo 'Apple prresentaría Siri en Mac' 3
+
+commit 0be42afe4ff9bdaece12f63719352d54774f7775
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:53:16 2016 -0600
+
+    Nuevo artículo 'Apple prresentaría Siri en Mac' 2
+
+commit 5bcd31237b0a2b8ab2aee6227bdd4859ebd07075
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:52:38 2016 -0600
+
+    Nuevo artículo 'Apple prresentaría Siri en Mac'
+
+commit 4cdabd05ffb87b9195d569af1fbbb43d4c471e76
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:24:34 2016 -0600
+
+    Nuevo artículo 'Netflix crece, Televisa y TvAzteca caen' 2
+
+commit 61a925b74b0984738f41675a85eabbfc27971757
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:22:56 2016 -0600
+
+    Nuevo artículo 'Netflix crece, Televisa y TvAzteca caen'
+
+commit fe77e6926d49f001514188294544abcdc8591501
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 26 23:46:37 2016 -0600
+
+    Anexo de imágen en el artículo 'Apple modificó el código de su página para evitar una palabra'
+
+commit a6067f140b9c50dc034982b0262c9546fc4d7ce0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 26 23:40:46 2016 -0600
+
+    Nuevo artículo 'Apple modificó el código de su página para evitar una palabra'
+
+commit 9b8a2b8b43e47fc8eba3ce7985f642118b77b4cd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 25 21:42:16 2016 -0600
+
+    Nuevo artículo 'Mighyt Audio, el nuevo reproductor MP3 para Spotify' 2
+
+commit 646f840118018f29acd5d2d9d0c555b78c428c60
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 25 21:39:40 2016 -0600
+
+    Nuevo artículo 'Mighyt Audio, el nuevo reproductor MP3 para Spotify'
+
+commit db0930f3b665988583a7f2c0405ce8988fa19319
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 24 23:33:26 2016 -0600
+
+    Nuevo artículo 'Snapchat te permitirá generar geofiltros personalizados' 2
+
+commit 183ffd07cc3fe503f6249b4f6353085e2eb389cb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 24 23:32:19 2016 -0600
+
+    Nuevo artículo 'Snapchat te permitirá generar geolfitros personalizados'
+
+commit b702582bd2fe51d972839899664be8c83eccb525
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 23:15:04 2016 -0600
+
+    Google Search Console
+
+commit cab120130a28cc6cc6d93fb6efdcc4925569a73d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 22:55:07 2016 -0600
+
+    Nuevo artículo 'Facebook te permitirá felicitar a tus amigos con un vídeo' 3
+
+commit 936c51c00fa77980d61766edc4d0ca0d2821d87c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 22:52:19 2016 -0600
+
+    Nuevo artículo 'Facebook te permitirá felicitar a tus amigos con un vídeo' 2
+
+commit a697670b09b09567707eeadaa3b5893311157916
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 22:51:41 2016 -0600
+
+    Nuevo artículo 'Facebook te permitirá felicitar a tus amigos con un vídeo'
+
+commit 8fc1afed3522251447cddd947a4450dd438fbd0d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:19:29 2016 -0600
+
+    Actualización de imágenes en 'Samsung presenta nuevos Galaxy' 3
+
+commit 32795f437c79d04dacc493c6a9f2a1fce48fbd6b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:18:05 2016 -0600
+
+    Actualización de imágenes en 'Samsung presenta nuevos Galaxy' 2
+
+commit cc1bfd0a5bd80d8dd55e3c014a539883a0115b8d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:16:25 2016 -0600
+
+    Actualización de imágenes en 'Samsung presenta nuevos Galaxy'
+
+commit 376cd8196a21ab7843fba3c6ee7ccd094952d1ee
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:12:06 2016 -0600
+
+    Nuevo artículo 'Samsung presenta nuevos Galaxy'
+
+commit 42251569410f820002987e6e6f295069f585542b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:45:17 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto 4
+
+commit a5950e759422f898358b4744bc77a779dfd3dfa8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:43:50 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto 3
+
+commit 2ce88485d21516bfd84fcd2aaf76b5ac5e914c90
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:40:41 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto 2
+
+commit 89d2165a7e0e4b74fc076f6cb37bfa04a32d8e9e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:37:44 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto
+
+commit bfe0fadfe82432bf4455bc074ce50ebcae652e6d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:29:38 2016 -0600
+
+    Ajustes al tamño del formulario en Contacto para móviles
+
+commit 91e4f9842360be7fea133571a717beb99f21e828
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 16:23:13 2016 -0600
+
+    Creación del formulario para el contacto del cliente
+
+commit 7506f90d745ad115a6dd0ef6925d82964b0e8c33
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 14:54:40 2016 -0600
+
+    Eliminación de Bootstrap en la url de Contacto
+
+commit 2ad2508520e32db40934bb75d853b485d08c48a2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 14:52:32 2016 -0600
+
+    Bootstrap en la url de Contacto
+
+commit 4241d6444a0865e1f9a42da8a158648c301cf879
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 16 23:47:14 2016 -0600
+
+    Nuevo artículo 'Tidal se convirtió en la app más descargada de la App Store'
+
+commit bb8ca098c800b3741b604ffeae73e69ec20b7550
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 12 23:18:41 2016 -0600
+
+    Nuevo artículo 'Asics adquiere Runkeeper' 3
+
+commit ebbdfbad6555add91adbd782bb736ffe09bad0aa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 12 23:18:13 2016 -0600
+
+    Nuevo artículo 'Asics adquiere Runkeeper' 2
+
+commit ef159746865b18b3ae143fcabf919835ad21c1b5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 12 23:15:58 2016 -0600
+
+    Nuevo artículo 'Asics adquiere Runkeeper'
+
+commit bbc16e625b5470b3ed3b4da3ab597837777ec30e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 11 10:10:39 2016 -0600
+
+    Nuevo artículo 'Mark Zuckerberg respondió a los comentarios de uno de sus inversionistas' 3
+
+commit 55397e48e5e22b64c6630f9124935a55e26ecd78
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 11 10:04:19 2016 -0600
+
+    Nuevo artículo 'Mark Zuckerberg respondió a los comentarios de uno de sus inversionistas' 2
+
+commit 45b43618523e37932bfc48417e9231398d02e46d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 11 10:01:05 2016 -0600
+
+    Nuevo artículo 'Mark Zuckerberg respondió a los comentarios de uno de sus inversionistas'
+
+commit 45602517660dec944b90b8edf94c1524af0f7bf3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 10 22:19:18 2016 -0600
+
+    Alineado de media en 'Nuevo timeline en Twitter'
+
+commit 4062de562c82527a39d9b1ae1c51cafc349d802f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 10 22:17:47 2016 -0600
+
+    Nuevo artículo 'Nuevo timeline en Twitter'
+
+commit f187c6d9918a30d26149bc7686daf37d21e5a4cc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 9 22:57:30 2016 -0600
+
+    No hay cambios
+
+commit 874876b06e4428a0860aa4d99f463f5a5f84fe56
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 18:42:20 2016 -0600
+
+    Nuevo artículo 'Twitter no cambiará su timeline' 2
+
+commit 0a6558282f6348df9cdced2b83e34c26ca7bd55b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 18:41:07 2016 -0600
+
+    Nuevo artículo 'Twitter no cambiará su timeline'
+
+commit 7fd5aa3db05a1c1e894d04675a70b99d3406b03b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 18:04:28 2016 -0600
+
+    Nuevo artículo 'Instagram agrega soporte para múltiples cuentas'
+
+commit 0860994f8fec3d8a5328950021a13e365a847c97
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 17:34:37 2016 -0600
+
+    Actualización en la dirección de contact.html
+
+commit 82128d4ac88bc9cc69b62f1b5e1aaff8a6d48854
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 22:37:59 2016 -0600
+
+    Nueva funcionalidad del botón contact en el menú
+
+commit b39e2624c5cb61349e740a360fb95c4fa96716f3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:38:29 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 5
+
+commit 3313ccb31a24b8ec65ca6ae27473c59f347906ad
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:37:16 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 4
+
+commit c0ee7113ae7e076e7139e123bd9b33bee2eacd32
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:35:36 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 3
+
+commit 6082d359d132a30c3ef6fcd19c615371902f177b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:33:45 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 2
+
+commit b8eb6e40dd91e7ab1016631a781d57321361f2b7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:29:18 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps'
+
+commit 81b40ffda001f515fe3614c172604279552af3f0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:35:45 2016 -0600
+
+    Nuevo artículo: Facebook cumple 12 años 2
+
+commit 2897ed14626f0ac4747b76195a0cafdef97229a2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:23:36 2016 -0600
+
+    Cambio en los share buttons
+
+commit b74b737dd7ca6c580a111fe08de3673445cba5c2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:21:12 2016 -0600
+
+    Modificacion de imagenes en 'Facebook cumple 12 años'
+
+commit 6cc6715cc463682c2ed194300174826587e32de1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:19:43 2016 -0600
+
+    Nuevo artículo: Facebook cumple 12 años
+
+commit 712e50975f0cadc6f0ca71fea01e5fd1cb15683f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 3 12:11:45 2016 -0600
+
+    Nuevo artículo 'Uber cambia de logo y brandig' 3
+
+commit 0029ee8f2df128c0ac9aa47eb8924b5174c831ea
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 3 12:10:31 2016 -0600
+
+    Nuevo artículo 'Uber cambia de logo y brandig' 2
+
+commit 72aeba6bf2fba623f4dca9eaf130f1288a09d804
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 3 12:10:07 2016 -0600
+
+    Nuevo artículo 'Uber cambia de logo y brandig'
+
+commit 7b83d367115d981e35c42a0101fe71316ff3ee29
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:55:10 2016 -0600
+
+    Nuevos icon
+
+commit f5d68d55145a83b42f44ee05cd28b4fefecd6b0b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:51:20 2016 -0600
+
+    Nuevo articulo 'Alphabet es ahora la compañia mas valiosa del mundo' 3
+
+commit 347df99dea3a4f1f6ede07463152cd0523bd8f42
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:25:04 2016 -0600
+
+    Nuevo articulo 'Alphabet es ahora la compañia mas valiosa del mundo' 2
+
+commit 6d40277bdbe72c761ab6efc2539f64373312681d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:24:14 2016 -0600
+
+    Nuevo articulo 'Alphabet es ahora la compañia mas valiosa del mundo'
+
+commit f735475eca4605ac6b82bf7af09b34c06fbd4a56
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:19:40 2016 -0600
+
+    Nuevos artículos: 'Gmail y WhatsApp llegan a los 1000 millones de usuarios'
+
+commit 80a6cbbe9162468a00b38499f6293f7e8f0cfa00
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 11:01:04 2016 -0600
+
+    Cambios en el menu para moviles
+
+commit 58965b7bc7a0579f226ae84f0d7d09e90ab63a96
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 10:40:03 2016 -0600
+
+    Cambios en el menú para móviles
+
+commit bdb64be6bb316a3c8ade991353c706e207957013
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:56:24 2016 -0600
+
+    Ultimo commit
+
+commit 64811550badf185c87e392ebf6ff0634f433b47b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:45:50 2016 -0600
+
+    Cambio de orden en los elementos del menu
+
+commit 63142ae063c2e38cdc6534b807b543e5fbeeec8d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:41:26 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 18
+
+commit 7002e8ee3e3e5d2426e428940b5fec945ea13405
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:40:24 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 17
+
+commit e58e1ad043a8828378c242bba15967da61091bfc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:38:47 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 16
+
+commit 8dfa59b4f78d15d653819f56baf58e6072c1750c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:38:09 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 15
+
+commit c54dd002e0a897c3ed443d2d6f838be402890bcc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:36:44 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 14
+
+commit 2d2ceadb89040420285d26ea91ac005c54edd758
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:35:00 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 13
+
+commit b3458622d10b61af0b11048f6621df2bb19f88c4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:34:12 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 12
+
+commit 6755a68c51c20f7b273c20ba1c9434d7acbb3719
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:32:41 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 1
+
+commit 06b3d5fbc257d2b3db93a3bfc8598672ed736310
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:30:24 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 10
+
+commit 9d230e526369cd6ca8a49032373a481fcb608698
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:29:36 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 9
+
+commit 2ed68c40f9656bb190b3e78f076a59c690d51fdd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:27:56 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 8
+
+commit 6011e54bee7f8dac66413590a61c2d439f8375af
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:25:37 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 7
+
+commit 2a5c526762a436af1db7460130ba73bd72905add
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:23:29 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 6
+
+commit 2c1cd66fc0b3232a216b5dc740ac746f86ff8c58
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:22:42 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 5
+
+commit d0dc994683b7047dd15d83c1f4f181c8c0ca4cef
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:21:37 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 4
+
+commit ebb97ab9369bb5203b38d7969ee263be91642e42
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:18:34 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 3
+
+commit dba5e75f42d16f74b622528134c4c4b47c19bb67
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:16:46 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo 2
+
+commit 5463c24bb8931ececb012f5450715a397aa9d03c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:16:01 2016 -0600
+
+    Cambios al fondo de los headers de cada articulo
+
+commit 4ba8af5b163efd9e031359d822ac92287a1ae5ac
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:14:45 2016 -0600
+
+    Cambios a los estilos del pagination
+
+commit 91622c48f7668516ab7db1482de2016b8f4c09ab
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:57:26 2016 -0600
+
+    Cambio de color del texto en blog.html
+
+commit 7d5ab11665b439f4116dcfb5584bf029af0fd446
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:52:36 2016 -0600
+
+    Prueba imagenes en pagina principal del blog 8
+
+commit 91f45f8fcdc8bf97a20669241cbc3fd353f7ac56
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:50:00 2016 -0600
+
+    Prueba imagenes en pagina principal del blog 7
+
+commit 78a9731ebd9bf2a5c176f6b9b1d818e6023dc912
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:31:59 2016 -0600
+
+    Prueba imagenes en pagina principal del blog 6
+
+commit 820230962f5a0e80d561de378d4a20d09364ae05
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:28:20 2016 -0600
+
+    Prueba imagenes en pagina principal del blog 5
+
+commit 23c180aff5ce4da3946bed13fd30ee192ad2d570
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:25:50 2016 -0600
+
+    Prueba imagenes en pagina principal del blog 4
+
+commit c4215df94375386779e2319983e1cd7ccd907962
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:23:17 2016 -0600
+
+    Prueba imagenes en pagina principal del blog 3
+
+commit 3783b3fb1c848485f268e8d939f6f0eb99f2f6bf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:22:34 2016 -0600
+
+    Prueba imagenes en pagina principal del blog 2
+
+commit c34643aee8ece1c81e137ae333c2dd543b18493c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:21:03 2016 -0600
+
+    Prueba imagenes en pagina principal del blog
+
+commit 0b8a0e917cef53f78e05c2e157f4f3c91417277f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:15:40 2016 -0600
+
+    Nuevos paddings en las imagenes del blog 3
+
+commit 7143c88ff37fcb776ca13e28e6077a680ec64c9a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:13:22 2016 -0600
+
+    Nuevos paddings en las imagenes del blog 2
+
+commit 89dd3803a018aa0374aab4905f1a8ffcd281b6a1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:11:27 2016 -0600
+
+    Nuevos paddings en las imagenes del blog
+
+commit 9821ca802f09310d4e65a10fce433f5776036b6f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:08:07 2016 -0600
+
+    Botos de share en redes sociales para articulos del blog
+
+commit f188f882109d814d540139804d1895a3a3a9fd74
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 23:07:33 2016 -0600
+
+    Pagination en blog usando jQuery
+
+commit c56047d14eb568ee66fd88cd8ce734c7505b9dea
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 22:44:43 2016 -0600
+
+    Nuevos links de descargas de diplomas 6
+
+commit 860c45593822191e573f44302f5e988701a2ca12
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 22:24:29 2016 -0600
+
+    Nuevos links de descargas de diplomas 3
+
+commit 48f327655bd89845f5a007750927f6259ae60100
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 22:21:12 2016 -0600
+
+    Nuevos links de descargas de diplomas
+
+commit 6beb8cb83ecfe6b300b926b818d21e37ac4ec8b4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 19:31:27 2016 -0600
+
+    Nuevo estilo del home para moviles 3
+
+commit b446fa3e45e062ecffe21631d82c7bc840744fa6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 19:27:40 2016 -0600
+
+    Nuevo estilo del home para moviles 2
+
+commit 88e16884ed25cc50c6aa7e2b70d8df5241572d18
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 19:25:12 2016 -0600
+
+    Nuevo estilo del home para moviles
+
+commit 293b7ad1541d797b048335b53dc9b8e8016c2a21
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 14:50:48 2016 -0600
+
+    Actualizacion al resume en index.html
+
+commit 538bdd91c81c161c4906f2102ff5b5c9767b1377
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 31 14:49:43 2016 -0600
+
+    Nue
+
+commit acb760a5641c3a37e87c8e9f8606ba90ae6c47eb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 30 00:04:41 2016 -0600
+
+    Prueba Twitter Cards 2
+
+commit b305e20bbaa11acc421131e57e1cb5e3c880ec00
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 30 00:03:08 2016 -0600
+
+    Prueba Twitter Cards
+
+commit 99773bfb05a690c9c29a4849820c6d98c18de486
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 23:49:24 2016 -0600
+
+    Actualizacion en el articulo 'Apple presentaria nueva iPad Air en marzo y iPhone 7 Plus' 3
+
+commit 3fa7c4f64002ade0529f2f93dc69caaece0f74f1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 23:48:22 2016 -0600
+
+    Actualizacion en el articulo 'Apple presentaria nueva iPad Air en marzo y iPhone 7 Plus' 2
+
+commit b27b7b41155b4b67229a19114c19af239dbd0bc9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 23:47:17 2016 -0600
+
+    Actualizacion en el articulo 'Apple presentaria nueva iPad Air en marzo y iPhone 7 Plus'
+
+commit 40fef959e2da0ee96d99388cb775c1972f952487
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 23:44:35 2016 -0600
+
+    Nuevo artículo 'Yahoo se renueva y termina operaciones en Mexico'
+
+commit b2272dd4413204e33fd3bf41522a41c9830ccfa1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 20:15:02 2016 -0600
+
+    Primera parte del artículo 'Yahoo se renueva y termina operaciones en Mexico' 3
+
+commit 6af78af45feb323f8bcb4ab9e421e2316a9bc533
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 20:12:12 2016 -0600
+
+    Primera parte del artículo 'Yahoo se renueva y termina operaciones en Mexico' 2
+
+commit 2d16f9b9cc1bcb1309a64e2dda0e1fdddb7625d3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 20:11:28 2016 -0600
+
+    Primera parte del artículo 'Yahoo se renueva y termina operaciones en Mexico'
+
+commit 4f556e26625cd217507f4d1eff8bfdb322cafc5c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:49:49 2016 -0600
+
+    Nuevo wallpaper en el articulo 'Apple presentaria nueva iPad Air y iPhone 7 en marzo' 5
+
+commit 23e45ac0df1f06f06b21766ab99827005d82f678
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:40:26 2016 -0600
+
+    Edicion de los estilos de las imagenes en 'Apple presentaria nueva iPad Air y iPhone 7 en marzo' 2
+
+commit 969d0a4d05fdc25ce6cb486c47b70ace4ada3593
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:37:22 2016 -0600
+
+    Edicion de los estilos de las imagenes en 'Apple presentaria nueva iPad Air y iPhone 7 en marzo'
+
+commit b498d901a1b1924f3b3230a615295fee7a1b3600
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:34:35 2016 -0600
+
+    Nuevo wallpaper en el articulo 'Apple presentaria nueva iPad Air y iPhone 7 en marzo' 4
+
+commit 2893a123556ad1e3961556f3434ed2754e8e9803
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:33:18 2016 -0600
+
+    Cambio de fecha en los artículos del blog 2
+
+commit cada183c7d6c3e06a51bb05c5750c69de39ed197
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:31:59 2016 -0600
+
+    Cambio de fecha en los artículos del blog
+
+commit d39a7395f0855280aa1b2eedb12dba1691dc977d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:30:59 2016 -0600
+
+    Nuevo wallpaper en el articulo 'Apple presentaria nueva iPad Air y iPhone 7 en marzo' 3
+
+commit e8d7256cd15ca683b6ad02f3dbf06961d71ba69b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:30:17 2016 -0600
+
+    Nuevo wallpaper en el articulo 'Apple presentaria nueva iPad Air y iPhone 7 en marzo' 2
+
+commit c6b42bcd12ebea8ece81d280bd74589404075111
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:29:36 2016 -0600
+
+    Nuevo wallpaper en el articulo 'Apple presentaria nueva iPad Air y iPhone 7 en marzo'
+
+commit 5a8c86928c84d664dfe6347fa100799297a69bf0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 29 19:26:24 2016 -0600
+
+    Nuevo artículo 'Apple presentaria nueva iPad Air en marzo y iPhone 7 Plus'
+
+commit f99b66a5986d24eb8a134a1199ca93c101ea72e9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 28 22:41:53 2016 -0600
+
+    Ajuste en el tamaño de imagenes en 'Snapchat hace más fácil agregar amigos con URLs'
+
+commit b31644ffe5b31ca81d80834795d8237b493c4974
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 28 22:40:33 2016 -0600
+
+    Nuevo artículo 'Snapchat hace más fácil agregar amigos con URLs' 2
+
+commit 8d8e4fb83f1739c50d7e5a9281b08cbb50ba39fc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 28 22:39:04 2016 -0600
+
+    Nuevo artículo 'Snapchat hace más fácil agregar amigos con URLs'
+
+commit 2c6187e77210f766c3e89f79b9f39e38e9ec81dc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 28 19:26:57 2016 -0600
+
+    Nuevo artículo 'Facebook Reactions, el nuevo botón de Like'
+
+commit b87a5034b2904e22c3d13882058722a069c9da31
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 28 19:07:07 2016 -0600
+
+    Nuevo artículo 'Facebook finalmente introduce live streaming para todos' 2
+
+commit 91de1d8f7f97e2411f1241e1d82f9c433002023a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 28 19:06:13 2016 -0600
+
+    Nuevo artículo 'Facebook finalmente introduce live streaming para todos'
+
+commit 4d7df826bb6af93055151107ba043d89539289ef
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 28 11:13:32 2016 -0600
+
+    Nuevo artículo 'Apple presentará un iPhone de 4 pulgadas y un nuevo Apple Watch'
+
+commit 4b6200babff1a7e32c31898b817d35549ab3b8be
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 27 22:22:24 2016 -0600
+
+    Nuevo artículo 'Uber r u usará tu telefono para controlar a sus choferes' 2
+
+commit 07a00f4577974d9279bf0cd37b7c25facafa668a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 27 22:20:48 2016 -0600
+
+    Nuevo artículo 'Uber r u usará tu telefono para controlar a sus choferes'
+
+commit 1f97edc155addb55e84530faee31a96d76ca7fc3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 27 22:04:59 2016 -0600
+
+    Nuevo artículo 'Livestream en Periscope desde tu GoPro' 2
+
+commit 531f498c04e00fe2aaba884044bc9cc9237d62a1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 27 22:03:17 2016 -0600
+
+    Nuevo artículo 'Livestream en Periscope desde tu GoPro'
+
+commit 6de15ae2c5ecf0c17fa9a1c2f744526b631b2ef6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 26 23:32:44 2016 -0600
+
+    Nuevo articulo 'Spotify introduce videos en sus dispositivos moviles' 2
+
+commit a55217573dd0994340598f8580b36150111c26cf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 26 23:30:44 2016 -0600
+
+    Nuevo articulo 'Spotify introduce videos en sus dispositivos moviles'
+
+commit 24a4e642522d191de32e42dae7757e7bdcb3e791
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 22:27:15 2016 -0600
+
+    Anexo de experiencia profesional 3
+
+commit f054731d4c17580c72a3e27c79c0b745381eaeab
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 22:26:03 2016 -0600
+
+    Anexo de experiencia profesional 2
+
+commit ff99cfb5a50689a5fd6281dfc76923a785ca2886
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 22:23:52 2016 -0600
+
+    Anexo de experiencia profesional
+
+commit 12113a44bb50fd16a346647bd9673d721e7364aa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 21:42:52 2016 -0600
+
+    Nuevo artículo 'Facebook 3D Touch en iOS' 2
+
+commit da328b619a80d4957c3c5e6dd3487966691313d6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 21:42:06 2016 -0600
+
+    Nuevo artículo 'Facebook 3D Touch en iOS'
+
+commit c6a2a856827b014704138cf5eb8997a8ff8c1f22
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 21:17:03 2016 -0600
+
+    Nuevo artículo 'Apple libera actualizaciones de seguridad en iOS y OS X' 3
+
+commit 31e9bfdc485b39da4731f7c64ad9bbe528a6805d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 21:15:19 2016 -0600
+
+    Nuevo artículo 'Apple libera actualizaciones de seguridad en iOS y OS X' 2
+
+commit a9de371723949e38c99dd482f7135bcabae8e5e1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 21:13:39 2016 -0600
+
+    Nuevo artículo 'Apple libera actualizaciones de seguridad en iOS y OS X'
+
+commit 716fe474510ee24f27dfc34e461f58ef253a5d6e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 19:00:13 2016 -0600
+
+    Cambio de color del texto en artículo 'UberEATS está por llegar a los Estados Unidos'
+
+commit bb7d4a1a5472de6c7ca4a57324aa2dd401bc3a21
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 22 18:59:02 2016 -0600
+
+    Nuevo artículo 'UberEATS está por llegar a los Estados Unidos'
+
+commit a44b78cb2b939eaa6edaf58512f29cbe59b26f91
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 22:41:54 2016 -0600
+
+    Cambios en el texto del artículo 'YouTube disponible en Pakistán después de 3 años'
+
+commit 0b49410d1d47658ec5ff3a10c6b73dbef9487c14
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 22:01:43 2016 -0600
+
+    Nuevo artículo 'YoutubTube disponible en Pakistán despues de 3 años'
+
+commit 41cbb9ca88336df9880cc3c15090fbe0648c747a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 21:35:43 2016 -0600
+
+    Cambio en el tamaño de las imagenes en 'Starbucks y Spotify se unen'
+
+commit 1d15231c757f5e8f3b4ef86143db93ece462cefe
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 21:34:00 2016 -0600
+
+    Nuevo artículo 'Starbucks y Spotify se unen' 5
+
+commit af5553a00115808a58f06e47dd65632db0879896
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 21:33:40 2016 -0600
+
+    Nuevo artículo 'Starbucks y Spotify se unen' 4
+
+commit 86d6f1acd9713c78a6842e274b6654ad96d41b15
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 21:31:39 2016 -0600
+
+    Nuevo artículo 'Starbucks y Spotify se unen' 3
+
+commit 1419b376eef11dc643d729c633d1474145948f27
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 21:29:19 2016 -0600
+
+    Nuevo artículo 'Starbucks y Spotify se unen' 2
+
+commit eba3db05a80f0cfbde61813c6f7598b68e3ceb6e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 21:24:09 2016 -0600
+
+    Nuevo artículo 'Starbucks y Spotify se unen'
+
+commit 18ecdffac7a1ff487836214b02493114098142e5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 20:52:13 2016 -0600
+
+    Cambio de color en los títulos del artículo 'Regresa la ballena de twitter' 3
+
+commit 6936a7c6acb2859008d1e6ef430f10d73d8ded9b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 20:51:19 2016 -0600
+
+    Cambio de color en los títulos del artículo 'Regresa la ballena de twitter' 2
+
+commit 2f546b6a9fdca022107ef928e77c42b1a397308d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 20:50:15 2016 -0600
+
+    Cambio de color en los títulos del artículo 'Regresa la ballena de twitter'
+
+commit f73c2822320633962327acde33d539b9f803771b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 20:49:06 2016 -0600
+
+    Nuevo artículo 'Regresa la ballena de Twitter' 2
+
+commit 9694b88a73fbe7a0bb31132170847412e3371701
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 20 20:48:26 2016 -0600
+
+    Nuevo artículo 'Regresa la ballena de Twitter'
+
+commit e3801588c3f8fe0b4fbc7b7ea7deea1547d27d73
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 23:34:21 2016 -0600
+
+    Nuevo artículo 'Buscar Amigos en Facebook, ilegal en Alemania 3
+
+commit 3d6723eff75cbf7e1156930a4e7118f779421ae2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 23:33:03 2016 -0600
+
+    Nuevo artículo 'Buscar Amigos en Facebook, ilegal en Alemania 2
+
+commit e8e5319f7805354bdc4fcf968495f740d5d49137
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 23:30:55 2016 -0600
+
+    Buscar Amigos en Facebookook, ilegal en Alemania
+
+commit c6c751a2ecde398004dbe45dedea2f49da741b0a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 23:00:11 2016 -0600
+
+    Nuevo artículo 'Amazon Echo leerá tus libros por ti' 3
+
+commit e4d7141a56104714814210f926c858ec36d3083e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 22:58:30 2016 -0600
+
+    Nuevo artículo 'Amazon Echo leerá tus libros por ti' 2
+
+commit 804b27745de379a87f86bc4caf40820bc2343f2a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 22:56:05 2016 -0600
+
+    Nuevo artículo 'Amazon Echo leerá tus libros por ti'
+
+commit 0f0c9193e98f2986722e82333a2e9a551a44bcc5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 22:30:51 2016 -0600
+
+    Cambio de tamaño en las imagenes del articulo 'Blume, dating sin catfishing' 2
+
+commit d832c594ce5d982c0c1f24d224367b5505739241
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 22:28:47 2016 -0600
+
+    Cambio de tamaño en las imagenes del articulo 'Blume, dating sin catfishing'
+
+commit 64a51ca0613bd7ba7e7d25aa0a714ab860c219b9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 19 22:24:47 2016 -0600
+
+    Nuevo articulo 'Blume, dating sin catfishing'
+
+commit cec27d92a65620a19560c57f2ab3f00e1ae7127b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 18 22:58:35 2016 -0600
+
+    Nuevo artículo 'WhatsApp elimina su cuota de 1 dólar' 3
+
+commit 803f83b34496ba87e1830bc6198a21447999eea9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 18 22:57:52 2016 -0600
+
+    Nuevo artículo 'WhatsApp elimina su cuota de 1 dólar' 2
+
+commit c12eba9805d9551b932bed705546ff1ca9beef6b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 18 22:54:59 2016 -0600
+
+    Nuevo artículo 'WhatsApp elimina su cuota de 1 dólar'
+
+commit 6b33cab9999b162738d4b73b71f622c1b6b6a243
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 21:56:24 2016 -0600
+
+    Imagenes nuevas en articulo 3
+
+commit bba0dd1796f6624d18d99ca2314ee05d5aee82ca
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 21:54:02 2016 -0600
+
+    Imagenes nuevas en articulo 2
+
+commit 7da0fa19b2fc6ccb75f99d7009ecd81ec054f8cf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 21:52:41 2016 -0600
+
+    Imagenes nuevas en articulo
+
+commit 0851d76513c5b5726a1cf8054499319f79f2aa68
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 21:48:41 2016 -0600
+
+    Nuevo artículo 'iTunes Radio dejará de ser gratuito'
+
+commit 760bc9abe0e35ac2bfaa765c1351c2a0e37a82ee
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 14:11:32 2016 -0600
+
+    Nuevo artículo 'Netflix va contra los VPN'
+
+commit 0ca02106ecba41e4c8e67add8c4b3f0c9f8315db
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 13:30:16 2016 -0600
+
+    Nuevo artículo 'Once, una nueva app para ligar' 3
+
+commit e1b409060162815096f37078701bbce6b428cb1d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 13:29:28 2016 -0600
+
+    Nuevo artículo 'Once, una nueva app para ligar' 2
+
+commit 57c84b4a80e4dcf3a631fdf40626a59869e7084d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 16 13:27:01 2016 -0600
+
+    Nuevo artículo 'Once, una nueva app para ligar'
+
+commit b62b1c335670234619ab8625eae368527156b01d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:52:20 2016 -0600
+
+    Cambio de ruta en el artículo 3
+
+commit 1f90d00e4ab0d1c4ed4e6309f959b86d07f41b3d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:49:58 2016 -0600
+
+    Cambio de ruta en el artículo 2
+
+commit 95792b8dd0c5b725de474ce50ed1405e7fdb6000
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:48:01 2016 -0600
+
+    Cambio de ruta en el artículo
+
+commit bda80fe6d1cd82d5504d426b1d1c8774bc4cc560
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:43:59 2016 -0600
+
+    Nuevo header en el artículo 'Skype presenta videollamadas grupales en moviles'
+
+commit 11d66c2953e336333eb3224b37bd89e2e1eeb68a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:42:30 2016 -0600
+
+    Nuevo artículo 'Skype presenta videollamadas grupales en móviles' 2
+
+commit d0c3cbaf7ee94dc700d46702f3c4f4c2404b133a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:42:10 2016 -0600
+
+    Nuevo artículo 'Skype presenta videollamadas grupales en móviles'
+
+commit 66e56ac3a8ad17167cc1e89021d534b129edf974
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:22:00 2016 -0600
+
+     Prueba 2
+
+commit 887cd51258acfbb7d857730a193a3b5651909f7e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:20:27 2016 -0600
+
+     Prueba 2
+
+commit 50bf672a42fc4f22476c9f883e1086b91f25431b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:18:44 2016 -0600
+
+     Prueba
+
+commit 8d61359ce6518b7a6b3b6c4feef65f10d396e1aa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:17:47 2016 -0600
+
+     Prueba
+
+commit d9e1facee762ad9a05a708dc6c2497ead56e6de8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:14:34 2016 -0600
+
+    Cambio en el nombre del heder del articulo
+
+commit ff934ded384cd9b05a3abfe023ae5472ebacb2ca
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:10:16 2016 -0600
+
+    Cambio en el nombre del heder del articulo
+
+commit 821e2daeb33ef95cd00038255e20cb4b9a429fdc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:09:06 2016 -0600
+
+    Cambio en el nombre del heder del articulo
+
+commit a43c31e718c00ff0912278c523c2176fbad6b29c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:06:24 2016 -0600
+
+    Cambio en el nombre de la direccion del articulo
+
+commit 076fcd5577c49ab776281410562bb2d6c9aab7d9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 13 11:04:25 2016 -0600
+
+    Nuevo artículo 'Twitter r reproducirá Periscope en su feed'
+
+commit 6c01a9c7f5a1dc0395632ac5fe01eb6844a63c51
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 22:45:06 2016 -0600
+
+    Nuevo artículo 'Spotify y Genius se unen' 3
+
+commit 3c9fb09b84e380a65fd62c9382e5d890dd922764
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 22:44:15 2016 -0600
+
+    Nuevo artículo 'Spotify y Genius se unen' 2
+
+commit c5eb0b5c63010319aa243df024066b62391f28ab
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 22:43:21 2016 -0600
+
+    Nuevo artículo 'Spotify y Genius se unen'
+
+commit acf8135c9e2af8069d7ba220fceb5d4be4ec5769
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 22:25:36 2016 -0600
+
+    Nuevo artículo 'Microsoosoft dejará de dar soporte a Windows 8' 2
+
+commit bb07869ba6dd1cf198c737b0e1ed83f2f22328a4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 22:21:14 2016 -0600
+
+    Nuevo artículo 'Microsoosoft dejará de dar soporte a Windows 8'
+
+commit e4e5c5cf901d5f527a6a0d222dcb789a4deb2392
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 14:39:34 2016 -0600
+
+    Corrección de texto en el artículo 'uberPOOL llega a la Ciudad de Mexico' 5
+
+commit 7322337410091160b5b0f61c2eccc376dc73355f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 14:33:40 2016 -0600
+
+    Corrección de texto en el artículo 'uberPOOL llega a la Ciudad de Mexico' 4
+
+commit 7619c9814c45d37a630f09995ed06c79fe321597
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 14:30:54 2016 -0600
+
+    Corrección de texto en el artículo 'uberPOOL llega a la Ciudad de Mexico' 3
+
+commit b83b2913ae38826bd4962a350aa0ee979c6ec3e9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 14:30:08 2016 -0600
+
+    Corrección de texto en el artículo 'uberPOOL llega a la Ciudad de Mexico' 2
+
+commit 0ee40b630e045014cd57950976837550b792dd0f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 14:28:29 2016 -0600
+
+    Corrección de texto en el artículo 'uberPOOL llega a la Ciudad de Mexico'
+
+commit 28505ee50ea998f4fce73c6430f21afe7ada13e9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 14:20:19 2016 -0600
+
+    Nuevo artículo 'uberPOObeerPOOL llega a la Ciudad de México' 2
+
+commit 5a2f81b4c5f4198737d6b1b53c1f550b0a47e29e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 12 14:19:59 2016 -0600
+
+    Nuevo artículo 'uberPOObeerPOOL llega a la Ciudad de México'
+
+commit b26775bee1ee3eb60bb97815e26a8e77a1b0791e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:55:13 2016 -0600
+
+    Nuevo header 3
+
+commit b58d702b6a55d4249287aba367dffc92a2c6d88f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:54:42 2016 -0600
+
+    Nuevo header 2
+
+commit e3ada0eed30d79efa50d0336569fe143e72faf1c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:53:26 2016 -0600
+
+    Nuevo header 2
+
+commit ab5e62c81d5c5fde7308cea6cdf554f5d9e0f494
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:51:31 2016 -0600
+
+    Nuevo header
+
+commit 1f687c90ac6d48cc16b9bd21e9cb815eecccc266
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:48:57 2016 -0600
+
+    Cambio de fechas en la pagina principal del blog 2
+
+commit 7e4e7c6983a916f461e497ba31cd39c86c04ddff
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:36:26 2016 -0600
+
+    Ajuste de imagenes en el articulo 'Apple presenta las nuevas Beta en todas sus plataformas' 2
+
+commit 1d595a6ce81b9754da618772cdc6eab29e25f06d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:34:35 2016 -0600
+
+    Ajuste de imagenes en el articulo 'Apple presenta las nuevas Beta en todas sus plataformas'
+
+commit 16ce3ed5a5088470bf044c9ff09ff1cf56e95d98
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:31:48 2016 -0600
+
+    Apple presenta las nuebavas Beta en todas sus plataformas 2
+
+commit 0b90924c6794ed0a6c0d73278451ed10196d01ff
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 22:29:57 2016 -0600
+
+    Apple presenta las nuebavas Beta en todas sus plataformas
+
+commit ead59dc24c745ad188e4606bc13262bd7006a169
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 13:16:23 2016 -0600
+
+    Cambios de color en los títulos de 'Peach, la nueva red social'
+
+commit 05ce19d72b5c96d44b16b6c896bf31ef52eeb972
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 13:15:21 2016 -0600
+
+    Nuevo artículo 'Peach, la nueva red social' 2
+
+commit 2a699fb6234e89e0b0c0141afa9e6ebd61cf3b39
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 13:14:54 2016 -0600
+
+    Nuevo artículo 'Peach, la nueva red social'
+
+commit 6702f232e961cc699fa82bf4d61de5fd033a5355
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:58:07 2016 -0600
+
+    Anexo de nuevo artículo a la página principal del blog
+
+commit b111ed8e71e450342069dc489df507a20a801922
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:51:31 2016 -0600
+
+    Cambio del wallpaper del header y colores de los títulos en 'Apple Music alcanza los 10 millones de suscriptores' 6
+
+commit 0b78645abf830332c63220021e70d71eb0b807e8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:50:35 2016 -0600
+
+    Cambio del wallpaper del header y colores de los títulos en 'Apple Music alcanza los 10 millones de suscriptores' 5
+
+commit 3a9bf1bc503d76ea4c33a31ac0677ec342efb8e6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:49:17 2016 -0600
+
+    Cambio del wallpaper del header y colores de los títulos en 'Apple Music alcanza los 10 millones de suscriptores' 4
+
+commit 64517127eaf3879b7e9109a217ffcf572d829375
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:46:18 2016 -0600
+
+    Cambio del wallpaper del header y colores de los títulos en 'Apple Music alcanza los 10 millones de suscriptores' 3
+
+commit 9c1f9e1a2f4de010f105342e214456aa34ddaf6f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:43:03 2016 -0600
+
+    Cambio del wallpaper del header y colores de los títulos en 'Apple Music alcanza los 10 millones de suscriptores' 2
+
+commit 20bee285a76792267a8d104a87be3bc48c30cd67
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:41:47 2016 -0600
+
+    Cambio del wallpaper del header y colores de los títulos en 'Apple Music alcanza los 10 millones de suscriptores'
+
+commit 96bd3d43483466178714b973b23bab31cd84b56d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:37:06 2016 -0600
+
+    Anexo de nuevo artículo en la página principal del blog
+
+commit c8871b369a1c29f2f058c255495604bc49c5b619
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 11 12:33:08 2016 -0600
+
+    Nuevo artículo 'Apple Music alcanza los 10 millones de suscriptores'
+
+commit a38cd075e0d4f8c23cb462f0ed4041c4b04d07e6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 19:24:41 2016 -0600
+
+    Nuevo artículo 'Facebook Messenger alcanza los 800M de usuarios' 4
+
+commit fe2f0138c6ee1d674d66471665f9bb370edab7ea
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 19:24:11 2016 -0600
+
+    Nuevo artículo 'Facebook Messenger alcanza los 800M de usuarios' 3
+
+commit be05841aa0be81a410ffcb5083f313e38ea4cd1d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 19:22:56 2016 -0600
+
+    Nuevo artículo 'Facebook Messenger alcanza los 800M de usuarios'2
+
+commit b6583fec9e0398fbd63ff1c4609a949be63d593e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 19:22:40 2016 -0600
+
+    Nuevo artículo 'Facebook Messenger alcanza los 800M de usuarios'
+
+commit 00ee928e57b45907b034cee3ade2a51b66f444ce
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 18:35:48 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del segundo día del CES 2016' 4
+
+commit 04b57424b28bd130cd77607c8da24545c2c7c035
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 18:35:04 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del segundo día del CES 2016' 4
+
+commit cdf709f5d00209762c69f4d9252e79f03d4a8ac4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 18:28:09 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del segundo día del CES 2016' 3
+
+commit ccfef90cf0dcfcaa20659ac8d801313dbf78d9b8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 18:27:37 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del segundo día del CES 2016' 2
+
+commit 0995d070172fc8fc3e30ee2f4fd44debc53cc5ab
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 18:25:42 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del segundo día del CES 2016'
+
+commit 6190f5c4bca208e776fed9d1cc648d7b98b61535
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 15:34:44 2016 -0600
+
+    Actualización de contenido del artículo 'Lo más destacado del primer día del CES 2016'
+
+commit 0f6f929e56b8c2c88c2c221335a722a222ecf293
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 8 00:02:04 2016 -0600
+
+    Corrección de los errores de esccritura del articulo
+
+commit 518f429331397fddb1ea89b9fc4c187ede7d283c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 7 20:15:30 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del primer día del CES 2016' 5
+
+commit e498e52789e85c21ab9998874ad0257ca12d6fad
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 7 20:12:59 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del primer día del CES 2016' 4
+
+commit fd0c2b9acb9642a08dd4b0c53cfb848c1074f07c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 7 20:12:02 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del primer día del CES 2016' 3
+
+commit 4b8bd83b76cae8ad005eb749f8f7b3774c5f4ced
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 7 20:11:16 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del primer día del CES 2016' 2
+
+commit c00421f6b884295eb4b207c3295d6b19f868768f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 7 20:07:35 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del primer día del CES 2016'
+
+commit ff6506620ef5b362771378dde21346efa7ffae2e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 16:05:41 2016 -0600
+
+    Correción al texto del artículo 'La Prierma Apple Store en México' 3
+
+commit 8680a9090e90c4c68388748f22902d172c72e0a5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 16:05:03 2016 -0600
+
+    Correción al texto del artículo 'La Prierma Apple Store en México' 2
+
+commit 36bf8097a763821b615c05608574196eb6d9ab8a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 16:04:12 2016 -0600
+
+    Correción al texto del artículo 'La Prierma Apple Store en México'
+
+commit dad119431d0b4e1cb30e40f2a487b3eb4910e6b7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:59:46 2016 -0600
+
+    Cambio de color del texto del header
+
+commit 1d14c7239e21d99f7319d7cfb458b533813f6001
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:58:49 2016 -0600
+
+    Artículo 'La Primera Apple Store en México' agregado en la pagina principal del blog 2
+
+commit f9741a06a5ea94a6fce07a837bf60bdb873a65e4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:57:34 2016 -0600
+
+    Artículo 'La Primera Apple Store en México' agregado en la pagina principal del blog
+
+commit 80afb3af56d3f14b80f5776411df19f166862976
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:55:44 2016 -0600
+
+    Nuevo artículo 'La Primera Apple Store en México'
+
+commit c985c8f821b1671148b612829661982233d5d614
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:35:46 2016 -0600
+
+    Tamaño de la fuente de los artículos del blog 4
+
+commit 384eaa124fabba7da23d85c3f224c160eb9672bf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:33:44 2016 -0600
+
+    Tamaño de la fuente de los artículos del blog 3
+
+commit 03f7557185aef2b31f91bf0d13ebeba8b7affe81
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:32:28 2016 -0600
+
+    Tamaño de la fuente de los artículos del blog 2
+
+commit aa7b000aa00e795ec0d907222a442a1618dab0d9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:30:36 2016 -0600
+
+    Tamaño de la fuente de los artículos del blog
+
+commit 46070f9d57020fb384c3b7bbc1e7db851c71aa6e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:26:23 2016 -0600
+
+    Tuit en 'Twitter te permitiría escribir hasta 10000 caracteres' 4
+
+commit a6580c248adec9f2d802ade9da6582aee0ca73f4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:24:32 2016 -0600
+
+    Tuit en 'Twitter te permitiría escribir hasta 10000 caracteres' 3
+
+commit 7ddf16543115c90990e90efee9dd157e3bbb4ca1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:22:50 2016 -0600
+
+    Tuit en 'Twitter te permitiría escribir hasta 10000 caracteres' 2
+
+commit c7e9a467d3e8fcef96438127aadca77a285a2dae
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:20:43 2016 -0600
+
+    Tuit en 'Twitter te permitiría escribir hasta 10000 caracteres'
+
+commit 47752812468f69ea54f06a5299ac45b5fc43a67c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 15:13:51 2016 -0600
+
+    Artículo nuevo 'Twitter te permitiría escribir hasta 10000 caracteres'
+
+commit 100bfa6c57a4613db4a8feaad4f93ddb413c6b1d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Jan 6 00:08:28 2016 -0600
+
+    Nuevo artículo en la pagina principal del blog
+
+commit 8c3dfc37f1cc9abeadc323f6c014f42be41a8f84
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:59:57 2016 -0600
+
+    Corrección a texto en el último artículo 2
+
+commit 6b74db929d8f31708805a2253eb39aa4c9451bde
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:58:52 2016 -0600
+
+    Corrección a texto en el último artículo
+
+commit 226e6aa513a29406ae753e3369f5716b8951ac86
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:33:16 2016 -0600
+
+    Nuevo artículo en la pagina principal del blog 'Lo más destacado del primer día del CES 2016' 5
+
+commit bfb3dd1909ee591668fb80132f2931f651585c63
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:31:46 2016 -0600
+
+    Nuevo artículo en la pagina principal del blog 'Lo más destacado del primer día del CES 2016' 4
+
+commit c78de40e045de04419c1c259ea9e19788a456ea4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:30:48 2016 -0600
+
+    Nuevo artículo en la pagina principal del blog 'Lo más destacado del primer día del CES 2016' 3
+
+commit 376cbfdec13f3833235ca4a6103fbba436d58230
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:27:18 2016 -0600
+
+    Nuevo artículo en la pagina principal del blog 'Lo más destacado del primer día del CES 2016' 2
+
+commit c0c179fc145310a9f304722d2481c1699d272d0e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:26:14 2016 -0600
+
+    Nuevo artículo en la pagina principal del blog 'Lo más destacado del primer día del CES 2016'
+
+commit 0725d5a1d5c3760a57baae60fea2a63d6ae807a9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Jan 5 23:23:47 2016 -0600
+
+    Nuevo artículo 'Lo más destacado del primer día del CES 2016'
+
+commit 53fb5a1fce0be56f8a476018bc0d75e0590ee253
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 23:36:14 2016 -0600
+
+    Nuevo background del header en 'Todo lo que esperamos en el CES 2016'
+
+commit d405cea8c2865b2baa44ba44f6a7235d0f8d51ad
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 23:33:38 2016 -0600
+
+    Nuevo artículo 'Todo lo que esperamos en el CES 2016' en la pagina principal del blog 2
+
+commit b291d481233bfc00a13f79c8a7b4aa24b7c6dbd2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 23:32:42 2016 -0600
+
+    Nuevo artículo 'Todo lo que esperamos en el CES 2016' en la pagina principal del blog
+
+commit 7df9052a5716d0820ce28dd009268d707f691150
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 23:30:26 2016 -0600
+
+    Nuevo artículo 'Todo lo que esperamos en el CES 2016'
+
+commit 08b235284edeb6d8d057ea97599a1198f031c444
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 17:56:59 2016 -0600
+
+    Favicon
+
+commit 5dec1d1f48d17efac551f7a91323d4ffb3c62f44
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 16:42:45 2016 -0600
+
+    Cambio de fuente 3
+
+commit d7ee061c588e1cbb43d2210e2b25bf0840a80730
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 16:41:50 2016 -0600
+
+    Cambio de fuente 2
+
+commit 7c89584c548c903c0b7655bd786e845147149a30
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 16:37:47 2016 -0600
+
+    Cambio de fuente
+
+commit 4ef8d07416717394dbfb9695768cccb4c00cc0b7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 16:27:59 2016 -0600
+
+    Anexo de imagenes en el articulo 'Movi, el primer producto para el público de Livestream' 6
+
+commit 4644e1167d299dd1151942fd12288f5f69bc99eb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 16:24:35 2016 -0600
+
+    Anexo de imagenes en el articulo 'Movi, el primer producto para el público de Livestream' 5
+
+commit 639499c46ac8ff952ee19f2ae68db586113508cf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:47:11 2016 -0600
+
+    Anexo de imagenes en el articulo 'Movi, el primer producto para el público de Livestream' 4
+
+commit 43345bb6db1fc5ba042483c0cada010afd61389f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:46:18 2016 -0600
+
+    Anexo de imagenes en el articulo 'Movi, el primer producto para el público de Livestream' 3
+
+commit 2aa6aefb1d3b8cd351a456f8326ec4c7308161ba
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:45:39 2016 -0600
+
+    Anexo de imagenes en el articulo 'Movi, el primer producto para el público de Livestream' 2
+
+commit 3819873287facb9f4ef1d65530390c2a17dfe93a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:44:02 2016 -0600
+
+    Anexo de imagenes en el articulo 'Movi, el primer producto para el público de Livestream'
+
+commit aefc128a70149b71977dac3f7ba5e6a3780ede45
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:34:51 2016 -0600
+
+    Justificado del cuerpo del texto de los artículos
+
+commit 351e7b1ec5208f438da6591678a5f741cebb0344
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:33:43 2016 -0600
+
+    Ajuste de vídeo del artículo 'Movi, el primer producto para el público de Livestream' 4
+
+commit d13a52a75271c2157b7d91329ee2835a65f84699
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:31:15 2016 -0600
+
+    Ajuste de vídeo del artículo 'Movi, el primer producto para el público de Livestream' 3
+
+commit dc2ff3a2ef052fdc946afb9a695fb7ba68f0ecbe
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:30:17 2016 -0600
+
+    Ajuste de vídeo del artículo 'Movi, el primer producto para el público de Livestream' 2
+
+commit dccc008564ede7c3aa3a6005cbcd73396ae152d1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:28:55 2016 -0600
+
+    Ajuste de vídeo del artículo 'Movi, el primer producto para el público de Livestream'
+
+commit dfd4f38323f1f80e7090deabf52a7d8c280129b2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:23:18 2016 -0600
+
+    Cambio de color en encabezado del artículo 'Movi, el primer producto para el público de Livestream' 2
+
+commit 2b9230bb5138ebf59d8124050db5ae2ba8998205
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:21:58 2016 -0600
+
+    Cambio de color en encabezado del artículo 'Movi, el primer producto para el público de Livestream'
+
+commit 60c850d58ca9a7afed180fd3967fb061fc341823
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:19:46 2016 -0600
+
+    Centrado de encabezados de los artículos del blog 2
+
+commit 17da2a892e22a8ce123615696cbd25c7b5330da3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:17:19 2016 -0600
+
+    Centrado de encabezados de los artículos del blog
+
+commit b46edd46aaa48da68b60d99b94cd34293e6f14a1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:14:42 2016 -0600
+
+    Ajuste de media en 'Movi, el primer producto para el público de Livestream'
+
+commit 4fc3e065cfe28b7e9627977b56c3601998702716
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Jan 4 14:10:37 2016 -0600
+
+    Nuevo artículo 'Movi, el primer producto para el público de Livestream'
+
+commit ee0eefc457ab7906089d9d12c044771cfa343856
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jan 3 00:00:23 2016 -0600
+
+    Correción de texto en el artículo 'Apple enfrenta demanda millonaria por iOs9'
+
+commit 21deb052651e26d91af80503fbd3f3ffa562bac1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:59:16 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 9
+
+commit bbf4d65baaf5d077954e6192d57b9414127c80ce
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:55:59 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 8
+
+commit 684274243ce82fdfa83a102bc3f322cbf8fb411a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:53:17 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 7
+
+commit faca025e5795d6f8e4a15db4cc5a8ee3553c00fa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:51:01 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 6
+
+commit 541f0b1e724b0c178a6e4432cf559fac1a0bad4b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:48:44 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 4
+
+commit fcc01234dd0b8241c008324406706852ba9f3658
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:43:31 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 4
+
+commit 824c577505c24db4248ab4b8d5b8321f0fd2bf56
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:42:02 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 3
+
+commit 382f64c2e65e8afb7cfe1026b3e65f2ad7e4adca
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:40:24 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo' 2
+
+commit 2536d292486606fa331c0d87c872384a66f61b1d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:36:29 2016 -0600
+
+    Añadir imágenes en el artículo 'El #UberSurge de Año Nuevo'
+
+commit c6160f10dda2ba690541ea79f5fc43a8d00ec4cf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:31:13 2016 -0600
+
+    Citar fuente del artículo 'Apple enfrenta demanda millonaria por iOS9' 3
+
+commit fb3f24ff5319a5f44d265b8a4a1db5ce542d1d0c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:25:42 2016 -0600
+
+    Citar fuente del artículo 'Apple enfrenta demanda millonaria por iOS9' 2
+
+commit d0884921e8776358c282d3ca066deed6d90285a8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:21:41 2016 -0600
+
+    Citar fuente del artículo 'Apple enfrenta demanda millonaria por iOS9'
+
+commit d0a2e6de1224890895aa9031ce7d6d38f546fb5d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:20:13 2016 -0600
+
+    Actualización de la descripción del artículo 'Apple enfrenta demanda millonaria por iOS9'
+
+commit a957309462f0cf7c3dc9e4235a52175bd68ac99c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:15:15 2016 -0600
+
+    Artículo 'Apple enfrenta demanda millonaria por iOS9'
+
+commit 6fb0f4b789686b844de15c62004d9838242d606a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:14:07 2016 -0600
+
+    Reubicación del archivo
+
+commit 563dc13301e04a239ba09aa28799d67abe86ed6a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 23:13:46 2016 -0600
+
+    Adición de nuevo artículo en la pagina principal del blog
+
+commit 587e16aff907c3a3ee1a8e7694552b6241c97077
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 17:15:24 2016 -0600
+
+    Cambio de bg
+
+commit d6db79004d17047afbc46ee6e50024163bb24ff1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 23:17:42 2016 -0600
+
+    Articulo 'UberSurge Año Nuevo' 3
+
+commit e77ddd342cd3fd79cb7bc010f65ff1278cb7ae38
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 23:16:03 2016 -0600
+
+    Articulo 'UberSurge Año Nuevo' 2
+
+commit 5dda5285c77c7ba61ab4c26c1a35c1d086453e57
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 23:11:52 2016 -0600
+
+    Articulo 'UberSurge Año Nuevo'
+
+commit a820ef0fe067dedde457a0de6d30067c3d6a57ca
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:48:19 2016 -0600
+
+    Cambios a la estructura de los directorios
+
+commit b4bc491c02d24a8d094de43db689fcf2a0e55d14
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:17:00 2016 -0600
+
+    Padding de separación entre artículos
+
+commit 6831ff00fd7e6777e6d67e5886a8aff36172e44e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:11:41 2016 -0600
+
+    Eliminación de target=_blank para abrir articulos nuevos
+
+commit dd44b2343fee4d7225f0c3984bdf06d4e547263a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:09:59 2016 -0600
+
+    Actualización del menu de navegación 2
+
+commit e291d665a0f1cbadea50c469bdec1319cf663363
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:07:53 2016 -0600
+
+    Actualización del menu de navegación
+
+commit 34f6120e7959c5225b1d9cdcd17ef882b6390c36
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:44:41 2016 -0600
+
+    Cambio de tamaño de fuente y cambio del margen a los costados del texto del cuerpo
+
+commit 0aed26a3066724de134fc0e4331ad2f7ab3fd4a5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:44:16 2016 -0600
+
+    Cambio al padding de cada artículo en la pagina principal del blog
+
+commit f9c7cb9ca3b19830d43c5faca2b43b6a202021cf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:36:35 2016 -0600
+
+    Error en extensión de archivo html corregido 3
+
+commit 5a6964a6d78cdb87134b5bfdfcd8877860e33293
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:35:24 2016 -0600
+
+    Error en extensión de archivo html corregido 2
+
+commit 836461d14defd3e4c61d57c0479f473f74934c79
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:34:29 2016 -0600
+
+    Error en extensión de archivo html corregido
+
+commit 22a0888be520a9e286f66bbcd83dafa52906f657
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:33:09 2016 -0600
+
+    Cambios a blog 2
+
+commit bd58ed9a11bc5f13c53628fb27e2d0c2f5b618ed
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:32:35 2016 -0600
+
+    Cambios a blog
+
+commit 6544c04e9f2cf614dcb98fb36d9f6b7d5372d10c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:28:49 2016 -0600
+
+    Creación del primer artículo del blog y su descripción
+
+commit 8dbc3ce0a72faaeebca531e1733c6074fd6fa4b0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:28:02 2016 -0600
+
+    Cambio de ruta del background
+
+commit 07edcd6e80c2829ac55f90a7c5ff65405bb7b25f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:27:19 2016 -0600
+
+    Reubicación del archivo
+
+commit 0d14900ef643fec89edbe515497461e4bb5db64d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:26:30 2016 -0600
+
+    Background del artículo 'El #UberSurge de Año Nuevo'
+
+commit 679e13614b1d3d334e1775c4d739da532a005dca
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:24:19 2016 -0600
+
+    Estilos particulares para los artículos publicados en el Blog
+
+commit a8a0d5335ff0e1b1b4481b40874d553102a66758
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:23:36 2016 -0600
+
+    Carpeta para almacenar los artículos publicados en el Blog
+
+commit f668a416dbea407c9a77b8ffe5872880320443ad
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 19:54:19 2016 -0600
+
+    Depuracion de blog.css
+
+commit aa71b678ac2df8577bc3a463ac4e887ff7eb9e6a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 19:52:15 2016 -0600
+
+    Actualización de menu movil en blog.html
+
+commit 360893f8f20e3388e76e41d112bbec337e46b29a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:37:09 2015 -0600
+
+    Menu movil, responsive 12
+
+commit 953759c9b98b4c5de0d9e0afeb44d92acc428006
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:34:02 2015 -0600
+
+    Menu movil, responsive 11
+
+commit f4090612a5f5c7af487cf62743ba017b422cb0ea
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:32:29 2015 -0600
+
+    Menu movil, responsive 10
+
+commit 43dcd626380fe2cfeaa5d46482f2491b9c7abf78
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:27:16 2015 -0600
+
+    Menu movil, responsive 9
+
+commit 1723163801e8ec6912327cb5ecb9ea69ea4ebe30
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:25:17 2015 -0600
+
+    Menu movil, responsive 8
+
+commit b9f0c6e12120c5a780ffa6b48291df26c69c47e6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:17:44 2015 -0600
+
+    Menu movil, responsive 7
+
+commit 5eccedffca6a113af9829a6cf0d6ac4632568092
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:16:20 2015 -0600
+
+    Menu movil, responsive 6
+
+commit ca8452b486de5eef6d7c0412cea48e60e0ba9cd9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:12:57 2015 -0600
+
+    Menu movil, responsive 5
+
+commit b51f068e5cc0e5b9b835697b17664fd9ebc23bcc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:10:17 2015 -0600
+
+    Menu movil, responsive 4
+
+commit a522aea220490919f8e126b5902b49feefad7917
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:04:11 2015 -0600
+
+    Menu movil, responsive 3
+
+commit 7be6430603f617a4a855e0d34ec537d34d331304
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:00:53 2015 -0600
+
+    Menu movil, responsive 2
+
+commit 08d5c7915033c071be42c09fd56d6b601c836c02
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 00:56:54 2015 -0600
+
+    Menu movil, responsive
+
+commit 7d785133a1958dc81eacd8052585c9cbaa86cd34
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 00:54:17 2015 -0600
+
+    Menu movil, responsive
+
+commit 954bb645a0c04654eee4d72c4b7d9fe0e90c3ff2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 19:48:16 2015 -0600
+
+    Cambios en la estructura al sitio, se agrego el Blog, modificación de detalles menores
+
+commit 6cfb7c2bfa0bd2b3f45e3134006704a27e8b50f6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 17:42:29 2015 -0600
+
+    Media para logotipos de redes sociales
+
+commit 41c8a1a634a664a2cf1a9971799d29165229306f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 17:42:12 2015 -0600
+
+    Cambios en footer y header
+
+commit 3c691ea2b7d7b22fb2d0730161f423d7e7cc472f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:36:09 2015 -0600
+
+    Cambios para alinear el texto en Studies
+
+commit 5f79a3e7cd23c6a06637302f2cf3b4c107a9f99b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:17:36 2015 -0600
+
+    Cambios en la sección 'Studies' de estructura, fuente y peso 3
+
+commit 77f8afd8f76ab436c7c8b2b688092ba654984e6c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:15:37 2015 -0600
+
+    Cambios en la sección 'Studies' de estructura, fuente y peso 2
+
+commit 0c7dfcd1380663be97c485c0f4a9cbc890b6ced0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:14:41 2015 -0600
+
+    Cambios en la sección 'Studies' de estructura, fuente y peso
+
+commit 698e2a3476db1c6e47a1db4f45e87a3b633bc910
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:14:15 2015 -0600
+
+    Logos de universidades
+
+commit 95d0d5a41195955b90234319f8eea2e33ab00cbb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 15:44:33 2015 -0600
+
+    Cambios en fuentes, tamaños y pesos para Courses and Certifications
+
+commit e9e1d090cdde3ddcff45565550e85fe1fe5b4cee
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 15:20:25 2015 -0600
+
+    Media de los logos de los cursos así como diplomas descargables
+
+commit 0c43ec5d68b6d3afc51afdd432ce165150c5298e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 15:19:22 2015 -0600
+
+    Sección de 'Courses and Certifications' estructurada y con imágenes
+
+commit 60cf0b08120e7224e042d641a6a0eaeedac0a3d2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 14:21:19 2015 -0600
+
+    Cambio de tipografía a Lato
+
+commit f6a232e6ac5c63fc0eead131ae2495840eef4e46
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 14:10:47 2015 -0600
+
+    Ajuste al navigation menu para móviles
+
+commit d32aaf39a90e343c9d59c50b4264bb4b7cee1f36
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:41:55 2015 -0600
+
+    Media del sitio (avatar y background)
+
+commit a660a5a30abc39f4fa1de6fcc89afdd8ad6cc191
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:41:25 2015 -0600
+
+    Estilos básicos del sitio
+
+commit 0908560bc93fe5b4480bd22ac8475a7a35ec1eb8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:41:03 2015 -0600
+
+    Iguala los estilos para todos los navegadores
+
+commit 5dd8dbdb6a8077dd86e37c0a6e1a6dab9ae4d3a0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:40:25 2015 -0600
+
+    Estructura semántica del sitio
